@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🌺 I’m currently working on revamping my personal portfolio!
-For now, you can view the portfolio I made in 2020. :)
+- 🌺 I've recently revamped my personal portfolio: https://joumana.netlify.app/
+- I'm currently working on publishing all my projects on the new site.
+
 <!--
 **JoumanaLaude/joumanalaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
