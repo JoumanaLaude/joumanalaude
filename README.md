@@ -1,19 +1,19 @@
-### Hi there 👋
+# 🌸 Hi there! 🌸
 
-- 🌺 I've recently revamped my personal portfolio: https://joumana.netlify.app/
-- I'm currently working on publishing all my projects on the new site.
+I've recently revamped my **personal portfolio**:  
+ ✨ [**https://joumana.netlify.app**](https://joumana.netlify.app/)    
 
-<!--
-**JoumanaLaude/joumanalaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on publishing all my projects on the new site.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌷 About Me
+- 💻 Front-End Developer & UX/UI Developer & Designer   
+- 🌼 Currently crafting projects with React, Next.js, Angular, Wordpress, and Drupal - oh my!
+- 🖌 Working on UI/UX designs & interactive prototypes
+- 📚 Forever learning new front-end tools & keeping up with the latest tech trends
+
+---
+[![🍪 View My Projects](https://img.shields.io/badge/%F0%9F%8D%AA-View%20My%20Projects-pink?style=for-the-badge&logo=&logoColor=white)](https://joumana.netlify.app/)
+
+🦄 Always learning, growing, and striving my best to become a unicorn in the world of front-end development!
