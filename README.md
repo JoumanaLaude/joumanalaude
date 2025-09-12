@@ -9,7 +9,7 @@ I'm currently working on publishing all my projects on the new site.
 ---
 
 ## 🌷 About Me
-- 💻 Front-End Developer & UX/UI Developer & Designer   
+- 💻 Front-End Developer | UX/UI Developer & Designer   
 - 🌼 Currently crafting projects with React, Next.js, Angular, Wordpress, and Drupal - oh my!
 - 🖌 Working on UI/UX designs & interactive prototypes
 - 📚 Forever learning new front-end tools & keeping up with the latest tech trends
