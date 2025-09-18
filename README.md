@@ -4,7 +4,7 @@ I've recently revamped my **personal portfolio**:
 
 [![🍪 joumana.netlify.app](https://img.shields.io/badge/%F0%9F%8D%AA-joumana.netlify.app-pink?style=for-the-badge&logo=&logoColor=white)](https://joumana.netlify.app/) 
 
-I'm currently working on publishing all my projects on the new site.  
+September 2025: I'm currently working on publishing all my projects on the new site.  
 
 ---
 
