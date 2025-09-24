@@ -10,7 +10,7 @@ September 2025: I'm currently working on publishing all my projects on the new s
 
 ## 🌷 About Me
 - 💻 Front-End Developer | UX/UI Developer & Designer   
-- 🌼 Currently crafting projects with React, Next.js, Angular, Wordpress, and Drupal - oh my!
+- 🌼 Currently crafting projects with React, Next.js, Angular, Wordpress, and Vanilla JS
 - 🖌 Working on UI/UX designs & interactive prototypes
 - 📚 Forever learning new front-end tools & keeping up with the latest tech trends
 
