@@ -4,9 +4,7 @@ I've recently revamped my **personal portfolio**:
 
 [![🍪 joumana.netlify.app](https://img.shields.io/badge/%F0%9F%8D%AA-joumana.netlify.app-pink?style=for-the-badge&logo=&logoColor=white)](https://joumana.netlify.app/) 
 
-~~September 2025: I'm currently working on publishing all my projects on the new site.~~
-
-November 2025: I'm currently working on creating more personal projects including a photo gallery to share on my portfolio.
+November 2026: After a whole year, I've refreshed my personal portfolio with a new layout.
 
 ---
 
